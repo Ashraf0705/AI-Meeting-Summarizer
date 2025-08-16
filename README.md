@@ -2,7 +2,7 @@
 
 An intelligent, full-stack application designed to transform lengthy meeting transcripts into concise, editable, and shareable summaries using the lightning-fast Groq AI API.
 
-### 🔴 Live Demo: [https://ai-summarizer-pro-ashraf.vercel.app/](https://ai-summarizer-pro-ashraf.vercel.app/)
+### 🔴 Live Demo: [https://ai-meeting-summarizer-smash.vercel.app/](https://ai-summarizer-pro-ashraf.vercel.app/)
 
 ---
 
